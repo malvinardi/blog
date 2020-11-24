@@ -3,3 +3,5 @@ Belajar Bahasa C
 Belajar HTML
 Belajar Bootstrap
 Belajar Database
+Belajar AngularJS
+Belajar React Native
